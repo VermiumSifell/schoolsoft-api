@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^108.0.0",
+    "chromedriver": "^119.0.1",
     "selenium-webdriver": "^4.7.1"
   }
 }
